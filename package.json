@@ -1,0 +1,36 @@
+{
+  "name": "react-shop",
+  "version": "1.0.0",
+  "description": "React eshop",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abaplover/curso-frontend-developer-practico.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Rolando Moya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abaplover/curso-frontend-developer-practico/issues"
+  },
+  "homepage": "https://github.com/abaplover/curso-frontend-developer-practico#readme",
+  "dependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-react": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "html-loader": "^3.0.1",
+    "html-webpack-plugin": "^5.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0"
+  }
+}
